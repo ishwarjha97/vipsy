@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravindra\.android\build-cache\b69377c82d1d9db69103bcfbf46793e631ac6c40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\pre-dexed\debug\classes_43541fc38961700e060511b4224d101a06b52df1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravindra\.android\build-cache\03edced4f708dfcddaba98317dcc5838afff7bbb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\pre-dexed\debug\classes_16ceb25447b3155ef338ba6ae290128aa32c19cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravindra\.android\build-cache\4e2dc5cfeefea052cb13b1fe2dd7b4138bf78348\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\pre-dexed\debug\classes_88210ff655c2019b452f9fa7fef9a7612809bbab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravindra\.android\build-cache\93ba8d75aa0f8073e8250f1806815c2377e1ebcd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\pre-dexed\debug\classes_e3991d7d604cd8b6d47f314b3a9553a570bf956b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravindra\.android\build-cache\e4ef1d469ad625abd4ed697c80af0bd1bd2f0a63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\pre-dexed\debug\classes_6bc489ec4974b36a07e41052dab42efd4e8e83f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravindra\.android\build-cache\2c94bc92c9ed0ef8f7dd85a6acc6c90daa02fc77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\pre-dexed\debug\classes_926bc9cb3e58fe7fc90a190ba78f5805002ab1e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravindra\.android\build-cache\c605c54ac9289264dd2c2c70c88407eff90a3b82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\pre-dexed\debug\classes_43fd930670ca0c353a4aa75602c76aac50adda6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravindra\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6fc5a02a9b9d614d8b3793fdd2443c231f7a64c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravindra\.android\build-cache\77be17deecf180f4665a0cafa3177ccbed742449\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\pre-dexed\debug\classes_3d39a3e469c1ed75b4ab7c6fccf647c4d0fadc05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravindra\.android\build-cache\77ebe71b6b0338c32cc40e93dcb0f0c98ddb1eee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\pre-dexed\debug\classes_9098dba35532ab60faf04837f46fd98e5b343fcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravindra\.android\build-cache\56ff996376e60f2653215048e7a98eb1e4301568\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\pre-dexed\debug\classes_b43c064b9c09585ee2c2dfe390e1545ff82682ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravindra\.android\build-cache\6a69f5d79a26b0a921c1ecfac2baefc72786106c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\pre-dexed\debug\classes_fc326831681d6b4919b8baaf6d61b5ee8c962baf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravindra\.android\build-cache\e95df824e90859b6a7ac47171a2ddf56e25d638f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\pre-dexed\debug\classes_ef80445738210a126eae1ab2b965cdb2289fc3a8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ishwar\VIPSY\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3fd526a0f0f7b8f54fa6ab8d09104ee9cd23b8a6">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0c51468c8afb385308f022d760be47741d1d2cc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ishwar\VIPSY\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\ishwar\VIPSY\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bebd007ee86a48145c3d44c3b082702126f5d89f\classes.dex" />
+    </item>
+
+</items>

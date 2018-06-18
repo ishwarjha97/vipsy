@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:10:5-29:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Ravindra\.android\build-cache\03edced4f708dfcddaba98317dcc5838afff7bbb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ravindra\.android\build-cache\2c94bc92c9ed0ef8f7dd85a6acc6c90daa02fc77\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ravindra\.android\build-cache\56ff996376e60f2653215048e7a98eb1e4301568\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ravindra\.android\build-cache\77ebe71b6b0338c32cc40e93dcb0f0c98ddb1eee\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Ravindra\.android\build-cache\77be17deecf180f4665a0cafa3177ccbed742449\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ravindra\.android\build-cache\93ba8d75aa0f8073e8250f1806815c2377e1ebcd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ravindra\.android\build-cache\e4ef1d469ad625abd4ed697c80af0bd1bd2f0a63\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ravindra\.android\build-cache\6a69f5d79a26b0a921c1ecfac2baefc72786106c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ravindra\.android\build-cache\4e2dc5cfeefea052cb13b1fe2dd7b4138bf78348\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ravindra\.android\build-cache\b69377c82d1d9db69103bcfbf46793e631ac6c40\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ravindra\.android\build-cache\e95df824e90859b6a7ac47171a2ddf56e25d638f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.ravindra.vipsy.LoginActivity
+ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:18:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.ravindra.vipsy.drawer
+ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:26:9-28:70
+	android:label
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:28:13-58
+	android:name
+		ADDED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml:27:13-35
+uses-sdk
+INJECTED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Ravindra\.android\build-cache\03edced4f708dfcddaba98317dcc5838afff7bbb\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ravindra\.android\build-cache\2c94bc92c9ed0ef8f7dd85a6acc6c90daa02fc77\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ravindra\.android\build-cache\56ff996376e60f2653215048e7a98eb1e4301568\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ravindra\.android\build-cache\77ebe71b6b0338c32cc40e93dcb0f0c98ddb1eee\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Ravindra\.android\build-cache\c605c54ac9289264dd2c2c70c88407eff90a3b82\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Ravindra\.android\build-cache\77be17deecf180f4665a0cafa3177ccbed742449\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ravindra\.android\build-cache\93ba8d75aa0f8073e8250f1806815c2377e1ebcd\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ravindra\.android\build-cache\e4ef1d469ad625abd4ed697c80af0bd1bd2f0a63\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ravindra\.android\build-cache\6a69f5d79a26b0a921c1ecfac2baefc72786106c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ravindra\.android\build-cache\4e2dc5cfeefea052cb13b1fe2dd7b4138bf78348\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ravindra\.android\build-cache\b69377c82d1d9db69103bcfbf46793e631ac6c40\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ravindra\.android\build-cache\e95df824e90859b6a7ac47171a2ddf56e25d638f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Ravindra\.android\build-cache\03edced4f708dfcddaba98317dcc5838afff7bbb\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ishwar\VIPSY\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Ravindra\.android\build-cache\03edced4f708dfcddaba98317dcc5838afff7bbb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ravindra\.android\build-cache\2c94bc92c9ed0ef8f7dd85a6acc6c90daa02fc77\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ravindra\.android\build-cache\56ff996376e60f2653215048e7a98eb1e4301568\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ravindra\.android\build-cache\77ebe71b6b0338c32cc40e93dcb0f0c98ddb1eee\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Ravindra\.android\build-cache\c605c54ac9289264dd2c2c70c88407eff90a3b82\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Ravindra\.android\build-cache\77be17deecf180f4665a0cafa3177ccbed742449\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ravindra\.android\build-cache\93ba8d75aa0f8073e8250f1806815c2377e1ebcd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ravindra\.android\build-cache\e4ef1d469ad625abd4ed697c80af0bd1bd2f0a63\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ravindra\.android\build-cache\6a69f5d79a26b0a921c1ecfac2baefc72786106c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ravindra\.android\build-cache\4e2dc5cfeefea052cb13b1fe2dd7b4138bf78348\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ravindra\.android\build-cache\b69377c82d1d9db69103bcfbf46793e631ac6c40\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ravindra\.android\build-cache\e95df824e90859b6a7ac47171a2ddf56e25d638f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Ravindra\.android\build-cache\03edced4f708dfcddaba98317dcc5838afff7bbb\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Ravindra\.android\build-cache\03edced4f708dfcddaba98317dcc5838afff7bbb\output\AndroidManifest.xml:26:9-47
